@@ -1,14 +1,14 @@
-# Astronaut Reaction Times
+# Astornaut Reaktionszeiten
 
 ![](cover.png)
 
-For the first time ever, a British astronaut from the European Space Agency is going to live and work on the International Space Station. British ESA Astronaut Tim Peake is going to orbit the earth for half a year. But what is it like to live and work in space? This activity looks at reaction times for astronauts, and distances travelled by the International Space Station in that time, by creating a reaction times game in Scratch. 
+Zum ersten Mal, wird ein Britischer Astronaut von der European Space Ageny auf der Internationalen Raumstation leben und arbeiten. Der Birische ESA Astronaut Tim Peake wird die Welt ein halbes Jahr umkreisen. Aber wie ist es im All zu leben und zu arbeiten? Diese Aktivität beschäftigt sich mit den Reaktionszeiten für Astronauten und die Zeit die sie zurückgelegt habe mit der Internationalen Raumsation in der gleichen Zeit, indem du ein Reaktionsspiel in Scratch programmierst. 
 
 You can learn more about what it is like to be an astronaut, and more about Tim Peake's mission, on [the UK National STEM Centre website here](http://www.nationalstemcentre.org.uk/timpeake).
 
-## The worksheet
+## Das Worksheet
 
-- Go to the [worksheet](worksheet.md)
+- Deutsches Worksheet[worksheet](worksheet_Deutsch.md) von Andreas Kopp
 
 ## Community
 
